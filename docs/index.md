@@ -1,5 +1,5 @@
  <center>
-     <h1>陶明威 <img align="right" src="assets/head.png" width="80px"></h1>  
+     <h1>陶明威 <img align="right" src="assets/head.png" width="100px"></h1>  
      <div>
          <span>
            <img src="assets/birth.png" width="18px">
@@ -31,12 +31,14 @@
 
 
 
+
 ## <img src="assets/tools-solid.svg" width="30px"> 专业技能
 - 熟练掌握 go 、java，熟悉使用python。
 - 熟悉 Kubernetes / Docker
-- 熟悉linux的虚拟化技术
+- 熟悉linux的虚拟化网络技术和其他虚拟化技术
 - 熟悉使用 Mysql 进行开发，掌握 SQL 语句
 - 熟悉使用基于 Spring boot 框架的 Java Web 编程
+- 熟悉常见的网络协议，如TCP\IP、Vxlan、BGP、VRRP等
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 奇安信科技集团有限公司    服务端研发  2019年08月 - 2022年11月  
